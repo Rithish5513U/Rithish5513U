@@ -6,9 +6,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Currently working on **data modeling and design patterns in C++ (Fusion 360)**  
+- 💻 Currently working on **data modeling and design patterns in C++ (Fusion 360)**
 - 🧠 Strong in **Algorithms, Data Structures, and System Design**  
-- 🌱 Learning **React, Flask, Spring Boot, and scalable backend architectures**  
+- 🌱 Learning **React, Flask, and scalable backend architectures**  
 - ⚡ Building full-stack systems with real-world use cases  
 - 📌 Interested in backend engineering, distributed systems, and high-performance computing  
 
@@ -17,12 +17,12 @@
 ## 🛠️ Tech Stack
 
 ### **Languages**
-- C++, Python, Java, JavaScript, SQL  
+- C++, Python, SQL  
 
 ### **Frameworks & Tools**
-- React, Next.js, Flask, Spring Boot  
+- React, Flask, FastAPI  
 - MongoDB, PostgreSQL, Supabase  
-- Git, Docker, Linux, REST APIs  
+- Git, Docker, REST APIs  
 
 ### **Data & ML**
 - Pandas, NumPy, Scikit-Learn  
