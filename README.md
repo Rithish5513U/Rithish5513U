@@ -30,30 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📦 QuickStock – Inventory Management System *(Ongoing)*
-- Full-stack inventory and sales management platform  
-- Product analytics dashboard, billing, and invoice generation  
-- Customer tracking and product stock monitoring  
-- Tech: React, Flask, MongoDB  
-
----
-
-### 💰 FlowFi – Financial Learning & Advisory Platform  
-- Provides financial news updates and learning resources  
-- Virtual stock market simulation with dummy currency for learning trading  
-- Tech: Flask, MongoDB, APIs, Frontend Dashboard  
-
----
-
-### 🎬 Cine-Match – Movie Recommendation System  
-- Content-based movie recommendation using cosine similarity  
-- Built a Streamlit web interface for interactive recommendations  
-- Tech: Python, Streamlit, Scikit-Learn  
-
----
-
 ## 🧠 Problem Solving
 - Solved **1000+ DSA problems**  
 - Strong in **Segment Trees, Graphs, Dynamic Programming, Multithreading**  
@@ -64,7 +40,7 @@
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/rithish-s  
 - 🧑‍💻 GitHub: https://github.com/Rithish5513U  
-- ✉️ Email: yourmail@example.com  
+- ✉️ Email: rithish.satish@gmail.com  
 
 ---
 
